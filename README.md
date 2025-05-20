@@ -37,5 +37,5 @@ Currently did nothing special but I assure You will get to see something special
 
 ## 📬 Connect with Me
 
-- *GitHub*: [Sahil-306]((https://github.com/Sahil-306))  
+- *GitHub*: [Sahil-306][((https://github.com/Sahil-306))]  
 - *Email*: [24ucs241@lnmiit.ac.in](mailto:24ucs241@lnmiit.ac.in)  
